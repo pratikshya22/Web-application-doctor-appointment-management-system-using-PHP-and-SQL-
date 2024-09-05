@@ -11,26 +11,31 @@ The target audience of my web application project are doctors and patients who
 are in need of an efficient system to make their health life hassle free.
 
 ### Objective of the project
-This project aims to develop an effective and secure platform known as the doctor 
-appointment managing system. Key goals include:
+This project aims to develop an effective and secure platform known as the doctor appointment managing system. Key goals include:
 ➢ To ensure a smooth patient and doctor experience.
+
 ➢ To secure sensitive user data.
-➢ To make features for user authentication, appointment booking and profile 
-management
-➢ To make the system compatible and accessible for multiple devices and 
-browsers
+
+➢ To make features for user authentication, appointment booking and profile management
+
+➢ To make the system compatible and accessible for multiple devices and browsers
 
 ### Technologies Used 
-Backend: PHP 
+Backend: PHP
+
 Database: MySQL 
+
 Frontend: HTML-CSS-Bootstrap
+
 Additional Tools: JavaScript
 
 ### Choices of color- themes and Fonts 
 Primary Color: #2C5F8A(Deep Blue)
+
 Background Color: White & rgba(0, 0, 0, 0.2) (Semi-transparent black overlay)
-Text Color: White for content on the background image, Black for content on 
-overlays
+
+Text Color: White for content on the background image, Black for content on overlays
+
 Font : Arial, sans-serif.
 
 ### Features 
