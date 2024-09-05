@@ -1,4 +1,4 @@
-# Doctor Appointment System usning PHP and MySQL
+# Doctor Appointment System using PHP and MySQL
 
 ### Introduction 
 The doctor appointment booking system is a web application for scheduling 
@@ -12,6 +12,7 @@ are in need of an efficient system to make their health life hassle free.
 
 ### Objective of the project
 This project aims to develop an effective and secure platform known as the doctor appointment managing system. Key goals include:
+
 ➢ To ensure a smooth patient and doctor experience.
 
 ➢ To secure sensitive user data.
